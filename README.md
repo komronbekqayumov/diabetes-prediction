@@ -1,4 +1,3 @@
-# diabetes-prediction
 # Diabetes Prediction
 
 This project aims to predict whether a person is likely to have diabetes based on diagnostic medical data. It uses machine learning algorithms to analyze input features and produce accurate predictions.
